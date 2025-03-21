@@ -123,4 +123,4 @@ You can customize the scraper behavior by modifying:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/yourusername/focus2-workbook-scraper/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/stoychevww/python-scraper-for-focus-workbook-a2/issues) if you want to contribute.
