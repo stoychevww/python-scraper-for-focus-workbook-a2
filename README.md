@@ -32,8 +32,8 @@ The tool is especially useful for students who want to have a local, searchable 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/focus2-workbook-scraper.git
-   cd focus2-workbook-scraper
+   git clone https://github.com/stoychevww/python-scraper-for-focus-workbook-a2.git
+   cd python-scraper-for-focus-workbook-a2
    ```
 
 2. Install the required packages:
